@@ -51,7 +51,7 @@ function App() {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
       <div className="w-full max-w-md space-y-6">
         <div className="text-center">
-          <h1 className="text-3xl font-bold text-gray-900">⚖️ IMC Calculator</h1>
+          <h1 className="text-3xl font-bold text-gray-900">⚖️ BMI Calculator</h1>
           <p className="text-gray-600 mt-2">Calculate your Body Mass Index</p>
         </div>
 
